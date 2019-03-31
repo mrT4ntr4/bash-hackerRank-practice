@@ -1,4 +1,4 @@
-## My Solutions to <span style="color:green">HackerRank</span> <span style="color:orange">Linux Shell</span> Practice Questions  
+## My Solutions to HackerRank Linux Shell Practice Questions  
 
 
 ![](bash_hackerrank.png)
@@ -6,6 +6,9 @@
 ## My Score  
 
 ![](leaderboard.png)  
+
+### [Link to Challenges](https://www.hackerrank.com/domains/shell)
+
 
 ## Subdomains
 
@@ -20,8 +23,8 @@
 | [World of Numbers](Bash/numWorld.sh)| Easy| 2 |
 | [Comparing Numbers](Bash/compNums.sh)| Easy| 3 |
 | [Conditionals](Bash/conditionals.sh)| Easy| 3 |
-| [More on Conditionals](Bash/traingle.sh)| Easy| 3 |
-| [Arithmetic Operations]()| Medium| 3 |
+| [More on Conditionals](Bash/triangle.sh)| Easy| 3 |
+| [Arithmetic Operations](Bash/mathExpr.sh)| Medium| 3 |
 | [Compute Average](Bash/avg.sh)| Medium| 4 |  
 
 ### $2 Text Processing
